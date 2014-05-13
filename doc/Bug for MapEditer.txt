@@ -1,0 +1,4 @@
+//Bug for MapEditer
+
+1.Up-Down-Right-Left algorithm could make ROAD over the border and can't connect.
+(Now I call Frame() to fix it.)

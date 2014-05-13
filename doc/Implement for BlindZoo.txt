@@ -1,0 +1,27 @@
+//Implement for BlindZoo
+
+1.divide Visitor from Zoo to interact
+
+2.almost dead circulate to run the program
+
+3.use String to receive the input and translate the commands
+//getline(cin, Visitor.m_CmdVerb, ' ');
+//getline(cin, Visitor.m_CmdNoun, '\n');
+
+4.make the Beep to show the coodinate
+
+5.create three status of result from command to express RIGHT, WRONG and Done
+
+6.read to Map.txt for a map, even thought there's not Map.txt, get anything ROAD
+
+7.randomly make animals in the road
+
+8.if step back, it will show you because it has a two-dimension array to record it
+
+9.some crack commands I added
+
+10.new command is easy to add by modifying CVisitor.cpp and try to imitate the finished one
+
+11.new animal is also easy to add by create CNewAnimal.h and CNewAnimal.cpp, all the code is almose the same as the finished one. And remember to #include"CNewAnimal.h"
+
+

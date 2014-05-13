@@ -1,0 +1,18 @@
+//BlindZoo
+
+Before KillerOfClassFree.exe and DoTank.exe
+
+8.19 come up with an idea for the blind
+8.20 complete the code of BlindZoo
+8.21 replenish the code of BlindZoo
+8.22 complete MapEditer
+8.23 basicly perfect MapEditer.exe
+8.24 basicly perfect BlindZoo.exe
+8.25 all algorithm
+8.26 notation and document
+8.27 sucessfully move to Linux
+8.28 copy other's algorithm
+8.29 create my algorithm
+8.30 complete document
+
+

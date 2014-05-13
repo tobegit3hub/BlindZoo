@@ -1,0 +1,28 @@
+//Implement for MapEditer
+
+1.load the image from the current path
+
+2.call Frame() to ensure the entrance, exit and border
+
+3.call Fill() to fill map to the full with WALL
+
+4.call IsFull() to test if any EMPTY exists
+
+5.call IsConnect() to try to get out of the map within 1000 steps
+//the algorithm is from the old experiment and firstly go current right otherwise secondly go straight otherwise finally turn left
+
+6.call Save() to save the map as Map.txt in current path only with '0' and '1'
+
+7.use common dialog to open a txt and turn it into a map
+//if load unsuccessfully, do nothing
+
+8.call AlgorithmToMap() to invert the int array to my EBlock array
+
+9.you can easily add a algorithm to built a 10*10 map and see the result
+
+10.all the entrance, exit and border are setted not to be modified
+
+11.not full is not allowed to save
+
+12.not connect is also not allowed to save
+

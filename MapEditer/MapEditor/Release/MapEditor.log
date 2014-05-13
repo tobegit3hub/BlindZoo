@@ -1,0 +1,27 @@
+﻿Build started 2011/8/31 7:47:06.
+     1>Project "C:\Users\Tobe\Documents\Visual Studio 2010\Projects\freeDone\MapEditer\MapEditor\MapEditor.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\MapEditor.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Release\MapEditor.res" MapEditor.rc 
+       Link:
+         D:\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Tobe\Documents\Visual Studio 2010\Projects\freeDone\MapEditer\Release\MapEditor.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\MapEditor.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Tobe\Documents\Visual Studio 2010\Projects\freeDone\MapEditer\Release\MapEditor.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Tobe\Documents\Visual Studio 2010\Projects\freeDone\MapEditer\Release\MapEditor.lib" /MACHINE:X86 Release\MapEditor.res
+         Release\Algorithm.obj
+         Release\CMap.obj
+         Release\WinMain.obj
+         Generating code
+     1>c:\users\tobe\documents\visual studio 2010\projects\freedone\mapediter\mapeditor\winmain.cpp(441): warning C4715: 'WindowProc' : not all control paths return a value
+         Finished generating code
+         MapEditor.vcxproj -> C:\Users\Tobe\Documents\Visual Studio 2010\Projects\freeDone\MapEditer\Release\MapEditor.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Tobe\Documents\Visual Studio 2010\Projects\freeDone\MapEditer\Release\MapEditor.exe;#1" /manifest Release\MapEditor.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\MapEditor.unsuccessfulbuild".
+         Touching "Release\MapEditor.lastbuildstate".
+     1>Done Building Project "C:\Users\Tobe\Documents\Visual Studio 2010\Projects\freeDone\MapEditer\MapEditor\MapEditor.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.37
