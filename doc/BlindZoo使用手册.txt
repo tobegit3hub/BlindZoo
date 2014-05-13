@@ -1,7 +1,7 @@
-BlindZoo£º
-    1.Ã¿´ÎÃüÁîÊäÈëÁ½¸ö×Ö·û´®£¬¸ñÊ½Èç¡°go ¿Õ¸ñ east »Ø³µ¡±¡£³£ÓÃÃüÁîÈçÏÂ£º¡°go east¡±£¬¡°go south¡±£¬¡°go north¡±£¬¡°go west¡±£¬¡°touch head¡±£¬¡°touch body¡±£¬¡°touch more¡±µÈµÈ¡£
-    2.ÆðµãÎª£¨1,1£©£¬µ½´ïÖÕµã£¨8,8£©Ôò½áÊø¡£
-    3.ÔÚ·¢ÏÖ¶¯ÎïµÄµØ·½¿ÉÒÔ¡°touch¡±¸÷¸ö²¿Î»Èç¡°head¡±,¡°neck¡±,¡°body¡±,¡°tail¡±,¡°more¡±,È»ºóÓÃ¡°is¡±ÃüÁî²ÂÊÇÊ²Ã´¶¯Îï¡£
-    4.Í¨¹ýÃüÁî¡°kill myself¡±¿É¿ìËÙÍË³öÓÎÏ·£¬×¢ÒâÃüÁî¶¼ÒªÇø·Ö´óÐ¡Ð´¡£
-    5.µØÍ¼ÐÅÏ¢ÊÇ¶ÁÈ¡ÏàÍ¬Ä¿Â¼ÏÂµÄMap.txtÎÄ¼þµÃµ½µÄ¡£
-    6.ÄÚº¬¶à¸öÒþ²ØµÄ¡°crack¡±ÃüÁî¡£
+BlindZooï¼š
+    1.æ¯æ¬¡å‘½ä»¤è¾“å…¥ä¸¤ä¸ªå­—ç¬¦ä¸²ï¼Œæ ¼å¼å¦‚â€œgo ç©ºæ ¼ east å›žè½¦â€ã€‚å¸¸ç”¨å‘½ä»¤å¦‚ä¸‹ï¼šâ€œgo eastâ€ï¼Œâ€œgo southâ€ï¼Œâ€œgo northâ€ï¼Œâ€œgo westâ€ï¼Œâ€œtouch headâ€ï¼Œâ€œtouch bodyâ€ï¼Œâ€œtouch moreâ€ç­‰ç­‰ã€‚
+    2.èµ·ç‚¹ä¸ºï¼ˆ1,1ï¼‰ï¼Œåˆ°è¾¾ç»ˆç‚¹ï¼ˆ8,8ï¼‰åˆ™ç»“æŸã€‚
+    3.åœ¨å‘çŽ°åŠ¨ç‰©çš„åœ°æ–¹å¯ä»¥â€œtouchâ€å„ä¸ªéƒ¨ä½å¦‚â€œheadâ€,â€œneckâ€,â€œbodyâ€,â€œtailâ€,â€œmoreâ€,ç„¶åŽç”¨â€œisâ€å‘½ä»¤çŒœæ˜¯ä»€ä¹ˆåŠ¨ç‰©ã€‚
+    4.é€šè¿‡å‘½ä»¤â€œkill myselfâ€å¯å¿«é€Ÿé€€å‡ºæ¸¸æˆï¼Œæ³¨æ„å‘½ä»¤éƒ½è¦åŒºåˆ†å¤§å°å†™ã€‚
+    5.åœ°å›¾ä¿¡æ¯æ˜¯è¯»å–ç›¸åŒç›®å½•ä¸‹çš„Map.txtæ–‡ä»¶å¾—åˆ°çš„ã€‚
+    6.å†…å«å¤šä¸ªéšè—çš„â€œcrackâ€å‘½ä»¤ã€‚

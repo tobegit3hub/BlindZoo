@@ -1,4 +1,4 @@
 //HowTo for BlindZoo
 
-1.ºÍZorkÒ»Ñù£¬DOS³ÌÐòÖ»ÄÜÊäÈëÃüÁî£¬ÒÔÏÂÊÇÊäÈë¹æÔò£¨Ô­±¾ÊÇÏë×öÏñBashÄÇÑùÇ¿´óµÄÃüÁî½âÊÍÆ÷µÄ£¬¿ÉÊÇÔÝÊ±ÊµÏÖ²»ÁË£©£ºÃ¿¸öÃüÁî¶¼ÓÐÁ½¸ö×Ö·û´®×é³É£¬ÖÐ¼ä¿Õ¸ñ¸ô¿ª£¬×îºó»Ø³µ½áÊø¡£
-//For example, "go (¿Õ¸ñ) south £¨»Ø³µ£©"
+1.å’ŒZorkä¸€æ ·ï¼ŒDOSç¨‹åºåªèƒ½è¾“å…¥å‘½ä»¤ï¼Œä»¥ä¸‹æ˜¯è¾“å…¥è§„åˆ™ï¼ˆåŽŸæœ¬æ˜¯æƒ³åšåƒBashé‚£æ ·å¼ºå¤§çš„å‘½ä»¤è§£é‡Šå™¨çš„ï¼Œå¯æ˜¯æš‚æ—¶å®žçŽ°ä¸äº†ï¼‰ï¼šæ¯ä¸ªå‘½ä»¤éƒ½æœ‰ä¸¤ä¸ªå­—ç¬¦ä¸²ç»„æˆï¼Œä¸­é—´ç©ºæ ¼éš”å¼€ï¼Œæœ€åŽå›žè½¦ç»“æŸã€‚
+//For example, "go (ç©ºæ ¼) south ï¼ˆå›žè½¦ï¼‰"
